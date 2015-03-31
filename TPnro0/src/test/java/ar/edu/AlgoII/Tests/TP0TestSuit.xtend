@@ -10,7 +10,7 @@ class TP0TestSuit {
 	{
 		val elTP = new TP0()
 		
-		Assert.assertEquals("Saban, Nicolas", elTP.ultimoEnHacerCommit);
+		Assert.assertEquals("Saban, Nicolas 2ºintento", elTP.ultimoEnHacerCommit);
 	
 	}
 }
